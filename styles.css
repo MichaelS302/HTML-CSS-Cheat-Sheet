@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-image: url(https://cdn.hipwallpaper.com/i/90/66/hDpB7t.jpg);
+}
+
+h1 {
+    -webkit-text-stroke: 1px yellow;
+    font-size: 100px;
+    color: red;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    
+    font-size: xx-large;
+    color: yellow;
+}
+
+button {
+	border: 3px solid #3a7999;
+}
+button:hover {
+	border: 3px dotted #3a7999;
+	color: #3a7999;
+	background: rgba(0,0,0,0);
+}

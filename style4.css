@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    -webkit-text-stroke: 1px red;
+    color:yellow;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: xx-large;
+    color: red;
+}
+
+#bullet {
+    font-size: x-large;
+    color: red;
+}
+
+#img {
+    margin-left: 550px;
+}
+
+a {
+    font-size: x-large;
+    color: yellow;
+    margin-left: 600px;
+}

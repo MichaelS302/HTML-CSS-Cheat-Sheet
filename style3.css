@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    border-color: red;
+    text-align: center;
+    border-style: solid;
+    font-size: 80px;
+    color: blue;
+}
+
+img {
+    margin-left: 550px;
+}
+
+h2, h3, h4, h5 {
+    text-decoration: underline;
+    font-size: xx-large;
+    color: blue;
+}
+
+li {
+    font-size: x-large;
+    color: red;
+}
+
+a {
+    height: 10em;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+    font-size: x-large;
+    color: blue;
+}
+
+@media only screen and (max-width: 400px) {
+    img {
+        height: 100px;
+        width: 100px;
+    }
+}
